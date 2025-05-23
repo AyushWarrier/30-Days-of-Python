@@ -1,7 +1,7 @@
 # Day 2: Variables & Data Types
 
 '''
-Today I explored how variables work in Python — they're so easy compared to other languages I've seen.
+Today I explored how variables work in Python - they're so easy compared to other languages I've seen.
 You don't need to define the type. Python figures it out based on the value you assign.
 '''
 
@@ -59,4 +59,4 @@ If you try to convert a non-numeric string to an int, Python will throw an error
 '''
 
 # Example:
-# bad = int("hello")  # Uncommenting this will crash the code
+# bad = int("hello")  Uncommenting this will crash the code
