@@ -1,1 +1,1 @@
-# Day 9: 	Strings & String Manipulation
+# Day 9: Strings & String Manipulation
