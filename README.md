@@ -20,8 +20,8 @@
 | 7   | Lists & Tuples                                  |
 | 8   | Dictionaries & Sets                             |
 | 9   | Strings & String Manipulation                   |
-| 10  | File Handling                                   |
-| 11  | Exception Handling                              |
+| 10  | Mini Project - Rock Paper Scissors Game         |
+| 11  | File & Exception Handling                       |
 | 12  | Modules & Packages                              |
 | 13  | Object-Oriented Programming (OOP)               |
 | 14  | Classes & Objects                               |
@@ -30,7 +30,7 @@
 | 17  | Lambda Functions & Comprehensions               |
 | 18  | Working with APIs                               |
 | 19  | Web Scraping with BeautifulSoup                 |
-| 20  | Database Handling with SQLite                   |
+| 20  | Mini Project - Password Generator               |
 | 21  | NumPy Basics                                    |
 | 22  | Pandas for Data Analysis                        |
 | 23  | Matplotlib for Data Visualization               |
@@ -38,6 +38,6 @@
 | 25  | Building a Basic API                            |
 | 26  | Automating Tasks with Python                    |
 | 27  | Building a CLI App                              |
-| 28  | Data Science Mini-Project                       |
-| 29  | Web App Mini-Project                            |
+| 28  | Mini Project - Data Science                     |
+| 29  | Mini Project - Web App                          |
 | 30  | Final Python Capstone Project                   |
