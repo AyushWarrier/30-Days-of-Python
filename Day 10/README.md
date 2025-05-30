@@ -13,8 +13,8 @@ A simple command-line implementation of the classic Rock, Paper, Scissors game. 
 - The user types 'rock', 'paper', or 'scissors' to play a round.
 - The computer randomly picks one of the three options.
 - The winner is decided using standard Rock-Paper-Scissors rules:
--   Rock beats Scissors
--   Scissors beats Paper
--   Paper beats Rock
+  - Rock beats Scissors
+  - Scissors beats Paper
+  - Paper beats Rock
 - The game continues until the user types 'quit'.
 - At the end, the total score and rounds played are displayed.
