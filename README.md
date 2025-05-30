@@ -30,7 +30,7 @@
 | 17  | Lambda Functions & Comprehensions               |
 | 18  | Working with APIs                               |
 | 19  | Web Scraping with BeautifulSoup                 |
-| 20  | Mini Project - Password Generator               |
+| 20  | Mini Project - Random Quote Generator           |
 | 21  | NumPy Basics                                    |
 | 22  | Pandas for Data Analysis                        |
 | 23  | Matplotlib for Data Visualization               |
