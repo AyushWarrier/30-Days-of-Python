@@ -1,4 +1,4 @@
-# Mini Project - Rock Paper Scissors Gane
+# Mini Project - Rock Paper Scissors Game
 
 A simple command-line implementation of the classic Rock, Paper, Scissors game. This was my first Python mini project after learning the basics, and it helped me practice user input, conditionals, loops, and using Python’s `random` module.
 
