@@ -11,7 +11,7 @@ This is a simple automation script that reminds me daily at **10:00 AM** to comp
 
 Make sure Python is installed on your system. Then install the required libraries:
 
-``bash
+``
 pip install schedule plyer
 ``
 
