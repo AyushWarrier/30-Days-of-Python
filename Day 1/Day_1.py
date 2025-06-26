@@ -10,7 +10,7 @@ On Linux, it needs to be installed via the terminal. (Refer to official docs: ht
 Second Step: Choosing an IDE
 I’m using VS Code since I’m already familiar with it, but here are a few other IDEs that work great with Python:
 - PyCharm
-- VSCodium
+- VSCodium 
 - Eclipse
 '''
 
