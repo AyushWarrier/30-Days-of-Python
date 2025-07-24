@@ -1,5 +1,5 @@
 # Day 1: Introduction to Python & Setup
-
+  
 ''' 
 First Step: Installing Python
 On Windows, I downloaded Python from the official website: https://www.python.org/
